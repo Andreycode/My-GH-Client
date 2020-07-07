@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GH Client</string>
+    <string name="SearchHint">Поиск по репозиториям</string>
+    <string name="FindButtonText">Искать</string>
+</resources>
